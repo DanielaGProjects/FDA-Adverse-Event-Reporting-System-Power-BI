@@ -42,6 +42,8 @@ drugstructuredosageunit = """001=kg kilogram(s)
 031=Gtt drop(s)
 032=DF dosage form"""
 
+
+
 parentmedicalcontinue = """1=Yes
 2=No
 3=Unknown"""
@@ -51,75 +53,113 @@ patientmedicalcontinue = """1=Yes
 2=No
 3=Unknown"""
 
-drugadministrationroute = """001 = Auricular (otic)
-002 = Buccal
-003 = Cutaneous
-004 = Dental
-005 = Endocervical
-006 = Endosinusial
-007 = Endotracheal
-008 = Epidural
-009 = Extra-amniotic
-010 = Hemodialysis
-011 = Intra corpus cavernosum
-012 = Intra-amniotic
-013 = Intra-arterial
-014 = Intra-articular
-015 = Intra-uterine
-016 = Intracardiac
-017 = Intracavernous
-018 = Intracerebral
-019 = Intracervical
-020 = Intracisternal
-021 = Intracorneal
-022 = Intracoronary
-023 = Intradermal
-024 = Intradiscal (intraspinal)
-025 = Intrahepatic
-026 = Intralesional
-027 = Intralymphatic
-028 = Intramedullar (bone marrow)
-029 = Intrameningeal
-030 = Intramuscular
-031 = Intraocular
-032 = Intrapericardial
-033 = Intraperitoneal
-034 = Intrapleural
-035 = Intrasynovial
-036 = Intratumor
-037 = Intrathecal
-038 = Intrathoracic
-039 = Intratracheal
-040 = Intravenous bolus
-041 = Intravenous drip
-042 = Intravenous (not otherwise specified)
-043 = Intravesical
-044 = Iontophoresis
-045 = Nasal
-046 = Occlusive dressing technique
-047 = Ophthalmic
-048 = Oral
-049 = Oropharingeal
-050 = Other
-051 = Parenteral
-052 = Periarticular
-053 = Perineural
-054 = Rectal
-055 = Respiratory (inhalation)
-056 = Retrobulbar
-057 = Sunconjunctival
-058 = Subcutaneous
-059 = Subdermal
-060 = Sublingual
-061 = Topical
-062 = Transdermal
-063 = Transmammary
-064 = Transplacental
-065 = Unknown
-066 = Urethral
-067 = Vaginal"""
+drugadministrationroute = """001=Auricular (otic)
+002=Buccal
+003=Cutaneous
+004=Dental
+005=Endocervical
+006=Endosinusial
+007=Endotracheal
+008=Epidural
+009=Extra-amniotic
+010=Hemodialysis
+011=Intra corpus cavernosum
+012=Intra-amniotic
+013=Intra-arterial
+014=Intra-articular
+015=Intra-uterine
+016=Intracardiac
+017=Intracavernous
+018=Intracerebral
+019=Intracervical
+020=Intracisternal
+021=Intracorneal
+022=Intracoronary
+023=Intradermal
+024=Intradiscal (intraspinal)
+025=Intrahepatic
+026=Intralesional
+027=Intralymphatic
+028=Intramedullar (bone marrow)
+029=Intrameningeal
+030=Intramuscular
+031=Intraocular
+032=Intrapericardial
+033=Intraperitoneal
+034=Intrapleural
+035=Intrasynovial
+036=Intratumor
+037=Intrathecal
+038=Intrathoracic
+039=Intratracheal
+040=Intravenous bolus
+041=Intravenous drip
+042=Intravenous (not otherwise specified)
+043=Intravesical
+044=Iontophoresis
+045=Nasal
+046=Occlusive dressing technique
+047=Ophthalmic
+048=Oral
+049=Oropharingeal
+050=Other
+051=Parenteral
+052=Periarticular
+053=Perineural
+054=Rectal
+055=Respiratory (inhalation)
+056=Retrobulbar
+057=Sunconjunctival
+058=Subcutaneous
+059=Subdermal
+060=Sublingual
+061=Topical
+062=Transdermal
+063=Transmammary
+064=Transplacental
+065=Unknown
+066=Urethral
+067=Vaginal"""
 
 reporttype = """1=Spontaneous
 2=Report from study
 3=Other
 4=Not available to sender (unknown)"""
+
+
+patientonsetageunit = """800=Decade
+801=Year
+802=Month
+803=Week
+804=Day
+805=Hour"""
+
+serious = """1=Yes
+2=No"""
+
+
+seriousnessdeath = """1=Yes
+2=No"""
+
+seriousnesshospitalization = """1=Yes
+2=No"""
+
+qualification = """1=Physician
+2=Pharmacist
+3=Other Health Professional
+4=Lawyer
+5=Consumer or other non health professional"""
+
+sendertype = """1=Pharmaceutical Company
+2=Regulatory Authority
+3=Health professional
+4=Regional Pharmacovigilance Center
+5=WHO Collaborating Center for International Drug Monitoring
+6=Other"""
+
+receivertype = """1=Pharmaceutical Company
+2=Regulatory Authority
+4=Regional Pharmacovigilance Center
+5=WHO Collaborating Center for International Drug Monitoring
+6=Other"""
+
