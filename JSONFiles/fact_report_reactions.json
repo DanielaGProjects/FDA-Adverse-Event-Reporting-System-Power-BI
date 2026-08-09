@@ -1,0 +1,128 @@
+[
+    {
+        "safetyreportid": "15778722",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Death",
+        "reactionoutcome": "5"
+    },
+    {
+        "safetyreportid": "15778729",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Plasma cell myeloma",
+        "reactionoutcome": "5"
+    },
+    {
+        "safetyreportid": "15778729",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Meningitis cryptococcal",
+        "reactionoutcome": "1"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Swelling face",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Tachycardia",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Rash erythematous",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Hypersensitivity myocarditis",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Cardiogenic shock",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Dizziness",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Drug reaction with eosinophilia and systemic symptoms",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Pyrexia",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Metabolic acidosis",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Drug ineffective",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Thrombocytopenia",
+        "reactionoutcome": "1"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Rash",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Lymphadenopathy",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Hyponatraemia",
+        "reactionoutcome": "1"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Hypotension",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778732",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Hypocalcaemia",
+        "reactionoutcome": "1"
+    },
+    {
+        "safetyreportid": "15778733",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Delirium",
+        "reactionoutcome": "6"
+    },
+    {
+        "safetyreportid": "15778748",
+        "reactionmeddraversionpt": "21.1",
+        "reactionmeddrapt": "Plasma cell myeloma",
+        "reactionoutcome": "5"
+    }
+]

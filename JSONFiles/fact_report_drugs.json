@@ -1,0 +1,1772 @@
+[
+    {
+        "safetyreportid": "15778722",
+        "drugcharacterization": "2",
+        "medicinalproduct": "ALPRAZOLAM.",
+        "drugdosageform": "UNKNOWN",
+        "drugadministrationroute": "065",
+        "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+        "activesubstance": {
+            "activesubstancename": "ALPRAZOLAM"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA074342",
+                "ANDA203346",
+                "ANDA090871",
+                "NDA018276",
+                "ANDA074174",
+                "ANDA078088",
+                "ANDA078561",
+                "ANDA078387",
+                "ANDA200739",
+                "NDA021434",
+                "ANDA074312",
+                "ANDA074112",
+                "ANDA074909"
+            ],
+            "brand_name": [
+                "ALPRAZOLAM",
+                "XANAX",
+                "XANAX XR",
+                "ALPRAZOLAM XR"
+            ],
+            "generic_name": [
+                "ALPRAZOLAM"
+            ],
+            "manufacturer_name": [
+                "Actavis Pharma, Inc.",
+                "Aurobindo Pharma Limited",
+                "Mylan Pharmaceuticals Inc.",
+                "ANI Pharmaceuticals, Inc.",
+                "Par Health USA, LLC",
+                "Amneal Pharmaceuticals LLC",
+                "Natco Pharma USA LLC",
+                "PHARMACIA & UPJOHN COMPANY LLC",
+                "Viatris Specialty LLC",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Sandoz Inc"
+            ],
+            "product_ndc": [
+                "0228-2027",
+                "0228-2029",
+                "0228-2031",
+                "0228-2039",
+                "65862-676",
+                "65862-677",
+                "65862-678",
+                "65862-679",
+                "65862-454",
+                "65862-455",
+                "65862-456",
+                "65862-457",
+                "59762-3719",
+                "59762-3720",
+                "59762-3721",
+                "59762-3722",
+                "70954-508",
+                "70954-509",
+                "70954-510",
+                "70954-511",
+                "49884-110",
+                "49884-111",
+                "49884-213",
+                "49884-214",
+                "0228-4019",
+                "0228-4022",
+                "0228-4024",
+                "0228-4025",
+                "65162-809",
+                "65162-810",
+                "65162-812",
+                "65162-813",
+                "69339-199",
+                "69339-200",
+                "69339-201",
+                "69339-202",
+                "0009-0090",
+                "0009-0029",
+                "0009-0055",
+                "0009-0094",
+                "58151-503",
+                "58151-504",
+                "58151-505",
+                "58151-506",
+                "59762-0057",
+                "59762-0059",
+                "59762-0066",
+                "59762-0068",
+                "58151-452",
+                "58151-453",
+                "58151-454",
+                "58151-455",
+                "0054-3068",
+                "0781-1061",
+                "0781-1077",
+                "0781-1079",
+                "0781-1089"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "ALPRAZOLAM"
+            ],
+            "rxcui": [
+                "197321",
+                "197322",
+                "308047",
+                "308048",
+                "433798",
+                "433799",
+                "433800",
+                "433801",
+                "485413",
+                "485414",
+                "485415",
+                "485416",
+                "141927",
+                "141928",
+                "214003",
+                "214004",
+                "687022",
+                "687023",
+                "687024",
+                "687025",
+                "308050"
+            ],
+            "nui": [
+                "N0000175694",
+                "M0002356"
+            ],
+            "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+            ],
+            "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+            ],
+            "unii": [
+                "YU55MQ3IZY"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778722",
+        "drugcharacterization": "1",
+        "medicinalproduct": "REVLIMID",
+        "drugbatchnumb": "A2628A",
+        "drugauthorizationnumb": "021880",
+        "drugstructuredosagenumb": "25",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "25 MILLIGRAM",
+        "drugdosageform": "CAPSULES",
+        "drugadministrationroute": "048",
+        "drugstartdateformat": "610",
+        "drugstartdate": "201809",
+        "actiondrug": "6",
+        "drugrecurreadministration": "3",
+        "activesubstance": {
+            "activesubstancename": "LENALIDOMIDE"
+        },
+        "openfda": {
+            "application_number": [
+                "NDA021880"
+            ],
+            "brand_name": [
+                "REVLIMID"
+            ],
+            "generic_name": [
+                "LENALIDOMIDE"
+            ],
+            "manufacturer_name": [
+                "Celgene Corporation"
+            ],
+            "product_ndc": [
+                "59572-402",
+                "59572-405",
+                "59572-410",
+                "59572-415",
+                "59572-420",
+                "59572-425"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "LENALIDOMIDE"
+            ],
+            "rxcui": [
+                "602910",
+                "602912",
+                "616114",
+                "616116",
+                "643712",
+                "643714",
+                "643720",
+                "643722",
+                "1242231",
+                "1242233",
+                "1428947",
+                "1429367"
+            ],
+            "nui": [
+                "N0000184014"
+            ],
+            "pharm_class_epc": [
+                "Thalidomide Analog [EPC]"
+            ],
+            "unii": [
+                "F0P408N6V4"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778722",
+        "drugcharacterization": "2",
+        "medicinalproduct": "DEXAMETHASONE.",
+        "drugdosageform": "UNKNOWN",
+        "drugadministrationroute": "065",
+        "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+        "activesubstance": {
+            "activesubstancename": "DEXAMETHASONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA216283",
+                "NDA022315",
+                "ANDA217695",
+                "ANDA216282",
+                "ANDA088481",
+                "ANDA216284",
+                "ANDA084754",
+                "ANDA217001",
+                "ANDA215106",
+                "ANDA215604",
+                "ANDA217696",
+                "ANDA201270",
+                "ANDA088149",
+                "ANDA091188",
+                "ANDA218372",
+                "ANDA080399",
+                "NDA013422",
+                "ANDA090891",
+                "ANDA088248",
+                "ANDA084612",
+                "ANDA216295",
+                "NDA211379",
+                "ANDA217538",
+                "NDA208742"
+            ],
+            "brand_name": [
+                "DEXAMETHASONE",
+                "OZURDEX",
+                "DEXAMETHASONE 1.5 MG",
+                "MAXIDEX",
+                "HEMADY",
+                "DEXTENZA"
+            ],
+            "generic_name": [
+                "DEXAMETHASONE",
+                "DEXAMETHASONE 1.5 MG"
+            ],
+            "manufacturer_name": [
+                "Zydus Lifesciences Limited",
+                "Allergan, Inc.",
+                "Apotex Corp.",
+                "Alvogen Inc.",
+                "Viona Pharmaceuticals Inc",
+                "Marlex Pharmaceuticals, Inc",
+                "Bionpharma Inc.,",
+                "Kesin Pharma Corporation",
+                "Amneal Pharmaceuticals NY LLC",
+                "ANI Pharmaceuticals, Inc.",
+                "Larken Laboratories, Inc.",
+                "Pangea Pharmaceuticals, LLC",
+                "NorthStar Rx LLC",
+                "Chartwell RX, LLC",
+                "Advagen Pharma Ltd.",
+                "Kanchan Healthcare Inc",
+                "Prasco Laboratories",
+                "Harrow Eye, LLC",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Hikma Pharmaceuticals USA, Inc.",
+                "Edenbridge Pharmaceuticals LLC.",
+                "Ocular Therapeutix, Inc."
+            ],
+            "product_ndc": [
+                "70771-1701",
+                "0023-3348",
+                "60505-6249",
+                "60505-6250",
+                "60505-6251",
+                "60505-6252",
+                "60505-6253",
+                "60505-6254",
+                "60505-6255",
+                "70771-1699",
+                "70771-1700",
+                "70771-1704",
+                "70771-1705",
+                "70771-1707",
+                "47781-914",
+                "47781-916",
+                "72578-166",
+                "70771-1706",
+                "10135-795",
+                "69452-277",
+                "69452-278",
+                "81033-010",
+                "60219-2043",
+                "60219-2044",
+                "70954-398",
+                "70954-401",
+                "70954-403",
+                "70954-404",
+                "70954-402",
+                "70954-399",
+                "68047-702",
+                "81279-117",
+                "72603-187",
+                "72603-189",
+                "72603-190",
+                "72603-188",
+                "72603-213",
+                "72603-212",
+                "62135-114",
+                "72888-235",
+                "72888-236",
+                "72888-237",
+                "72888-238",
+                "72888-239",
+                "72888-240",
+                "72888-241",
+                "70954-872",
+                "85742-004",
+                "66993-730",
+                "82667-600",
+                "72789-534",
+                "72578-168",
+                "72578-171",
+                "72578-172",
+                "72578-169",
+                "72578-170",
+                "64980-509",
+                "0054-3177",
+                "0054-4179",
+                "0054-4180",
+                "0054-4181",
+                "0054-4182",
+                "0054-4183",
+                "0054-4184",
+                "0054-4186",
+                "0054-3176",
+                "0054-8179",
+                "0054-8180",
+                "0054-8174",
+                "0054-8181",
+                "0054-8176",
+                "0054-8175",
+                "0054-8183",
+                "60219-2056",
+                "82111-955",
+                "69452-276",
+                "70382-204",
+                "72578-167"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL",
+                "INTRAVITREAL",
+                "OPHTHALMIC",
+                "INTRACANALICULAR"
+            ],
+            "substance_name": [
+                "DEXAMETHASONE"
+            ],
+            "rxcui": [
+                "197581",
+                "854177",
+                "854181",
+                "197577",
+                "197579",
+                "197580",
+                "197582",
+                "197583",
+                "343033",
+                "309686",
+                "759481",
+                "759697",
+                "846192",
+                "197576",
+                "205669",
+                "309692",
+                "309684",
+                "2261802",
+                "2286261",
+                "2108015",
+                "2108020"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "7S5I7G3JQL"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778722",
+        "drugcharacterization": "2",
+        "medicinalproduct": "NORCO",
+        "drugdosageform": "UNKNOWN",
+        "drugadministrationroute": "065",
+        "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+        "activesubstance": {
+            "activesubstancename": "ACETAMINOPHEN\\HYDROCODONE BITARTRATE"
+        },
+        "openfda": {}
+    },
+    {
+        "safetyreportid": "15778722",
+        "drugcharacterization": "1",
+        "medicinalproduct": "REVLIMID",
+        "drugbatchnumb": "A2628A",
+        "drugauthorizationnumb": "021880",
+        "drugstructuredosagenumb": "25",
+        "drugstructuredosageunit": "003",
+        "drugseparatedosagenumb": "1",
+        "drugintervaldosageunitnumb": "1",
+        "drugintervaldosagedefinition": "804",
+        "drugdosagetext": "25 MILLIGRAM",
+        "drugdosageform": "CAPSULES",
+        "drugadministrationroute": "048",
+        "drugindication": "PLASMA CELL MYELOMA",
+        "drugstartdateformat": "610",
+        "drugstartdate": "201805",
+        "actiondrug": "6",
+        "drugrecurreadministration": "3",
+        "activesubstance": {
+            "activesubstancename": "LENALIDOMIDE"
+        },
+        "openfda": {
+            "application_number": [
+                "NDA021880"
+            ],
+            "brand_name": [
+                "REVLIMID"
+            ],
+            "generic_name": [
+                "LENALIDOMIDE"
+            ],
+            "manufacturer_name": [
+                "Celgene Corporation"
+            ],
+            "product_ndc": [
+                "59572-402",
+                "59572-405",
+                "59572-410",
+                "59572-415",
+                "59572-420",
+                "59572-425"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "LENALIDOMIDE"
+            ],
+            "rxcui": [
+                "602910",
+                "602912",
+                "616114",
+                "616116",
+                "643712",
+                "643714",
+                "643720",
+                "643722",
+                "1242231",
+                "1242233",
+                "1428947",
+                "1429367"
+            ],
+            "nui": [
+                "N0000184014"
+            ],
+            "pharm_class_epc": [
+                "Thalidomide Analog [EPC]"
+            ],
+            "unii": [
+                "F0P408N6V4"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778729",
+        "drugcharacterization": "1",
+        "medicinalproduct": "REVLIMID",
+        "drugauthorizationnumb": "021880",
+        "drugstructuredosagenumb": "15",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "CAPSULES",
+        "drugadministrationroute": "048",
+        "drugindication": "PLASMA CELL MYELOMA",
+        "drugstartdateformat": "102",
+        "drugstartdate": "20130909",
+        "drugenddateformat": "102",
+        "drugenddate": "20170926",
+        "actiondrug": "1",
+        "drugrecurreadministration": "3",
+        "drugadditional": "1",
+        "activesubstance": {
+            "activesubstancename": "LENALIDOMIDE"
+        },
+        "openfda": {
+            "application_number": [
+                "NDA021880"
+            ],
+            "brand_name": [
+                "REVLIMID"
+            ],
+            "generic_name": [
+                "LENALIDOMIDE"
+            ],
+            "manufacturer_name": [
+                "Celgene Corporation"
+            ],
+            "product_ndc": [
+                "59572-402",
+                "59572-405",
+                "59572-410",
+                "59572-415",
+                "59572-420",
+                "59572-425"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "LENALIDOMIDE"
+            ],
+            "rxcui": [
+                "602910",
+                "602912",
+                "616114",
+                "616116",
+                "643712",
+                "643714",
+                "643720",
+                "643722",
+                "1242231",
+                "1242233",
+                "1428947",
+                "1429367"
+            ],
+            "nui": [
+                "N0000184014"
+            ],
+            "pharm_class_epc": [
+                "Thalidomide Analog [EPC]"
+            ],
+            "unii": [
+                "F0P408N6V4"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778729",
+        "drugcharacterization": "1",
+        "medicinalproduct": "REVLIMID",
+        "drugauthorizationnumb": "021880",
+        "drugstructuredosagenumb": "15",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "CAPSULES",
+        "drugadministrationroute": "048",
+        "drugstartdateformat": "102",
+        "drugstartdate": "20180116",
+        "drugenddateformat": "102",
+        "drugenddate": "20181031",
+        "actiondrug": "1",
+        "drugrecurreadministration": "3",
+        "drugadditional": "1",
+        "activesubstance": {
+            "activesubstancename": "LENALIDOMIDE"
+        },
+        "openfda": {
+            "application_number": [
+                "NDA021880"
+            ],
+            "brand_name": [
+                "REVLIMID"
+            ],
+            "generic_name": [
+                "LENALIDOMIDE"
+            ],
+            "manufacturer_name": [
+                "Celgene Corporation"
+            ],
+            "product_ndc": [
+                "59572-402",
+                "59572-405",
+                "59572-410",
+                "59572-415",
+                "59572-420",
+                "59572-425"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "LENALIDOMIDE"
+            ],
+            "rxcui": [
+                "602910",
+                "602912",
+                "616114",
+                "616116",
+                "643712",
+                "643714",
+                "643720",
+                "643722",
+                "1242231",
+                "1242233",
+                "1428947",
+                "1429367"
+            ],
+            "nui": [
+                "N0000184014"
+            ],
+            "pharm_class_epc": [
+                "Thalidomide Analog [EPC]"
+            ],
+            "unii": [
+                "F0P408N6V4"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778729",
+        "drugcharacterization": "1",
+        "medicinalproduct": "DEXAMETHASONE.",
+        "drugstructuredosagenumb": "20",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "TABLETS",
+        "drugadministrationroute": "048",
+        "drugindication": "PLASMA CELL MYELOMA",
+        "drugstartdateformat": "102",
+        "drugstartdate": "20130909",
+        "drugenddateformat": "102",
+        "drugenddate": "20170926",
+        "actiondrug": "1",
+        "drugrecurreadministration": "3",
+        "drugadditional": "1",
+        "activesubstance": {
+            "activesubstancename": "DEXAMETHASONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA216283",
+                "NDA022315",
+                "ANDA217695",
+                "ANDA216282",
+                "ANDA088481",
+                "ANDA216284",
+                "ANDA084754",
+                "ANDA217001",
+                "ANDA215106",
+                "ANDA215604",
+                "ANDA217696",
+                "ANDA201270",
+                "ANDA088149",
+                "ANDA091188",
+                "ANDA218372",
+                "ANDA080399",
+                "NDA013422",
+                "ANDA090891",
+                "ANDA088248",
+                "ANDA084612",
+                "ANDA216295",
+                "NDA211379",
+                "ANDA217538",
+                "NDA208742"
+            ],
+            "brand_name": [
+                "DEXAMETHASONE",
+                "OZURDEX",
+                "DEXAMETHASONE 1.5 MG",
+                "MAXIDEX",
+                "HEMADY",
+                "DEXTENZA"
+            ],
+            "generic_name": [
+                "DEXAMETHASONE",
+                "DEXAMETHASONE 1.5 MG"
+            ],
+            "manufacturer_name": [
+                "Zydus Lifesciences Limited",
+                "Allergan, Inc.",
+                "Apotex Corp.",
+                "Alvogen Inc.",
+                "Viona Pharmaceuticals Inc",
+                "Marlex Pharmaceuticals, Inc",
+                "Bionpharma Inc.,",
+                "Kesin Pharma Corporation",
+                "Amneal Pharmaceuticals NY LLC",
+                "ANI Pharmaceuticals, Inc.",
+                "Larken Laboratories, Inc.",
+                "Pangea Pharmaceuticals, LLC",
+                "NorthStar Rx LLC",
+                "Chartwell RX, LLC",
+                "Advagen Pharma Ltd.",
+                "Kanchan Healthcare Inc",
+                "Prasco Laboratories",
+                "Harrow Eye, LLC",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Hikma Pharmaceuticals USA, Inc.",
+                "Edenbridge Pharmaceuticals LLC.",
+                "Ocular Therapeutix, Inc."
+            ],
+            "product_ndc": [
+                "70771-1701",
+                "0023-3348",
+                "60505-6249",
+                "60505-6250",
+                "60505-6251",
+                "60505-6252",
+                "60505-6253",
+                "60505-6254",
+                "60505-6255",
+                "70771-1699",
+                "70771-1700",
+                "70771-1704",
+                "70771-1705",
+                "70771-1707",
+                "47781-914",
+                "47781-916",
+                "72578-166",
+                "70771-1706",
+                "10135-795",
+                "69452-277",
+                "69452-278",
+                "81033-010",
+                "60219-2043",
+                "60219-2044",
+                "70954-398",
+                "70954-401",
+                "70954-403",
+                "70954-404",
+                "70954-402",
+                "70954-399",
+                "68047-702",
+                "81279-117",
+                "72603-187",
+                "72603-189",
+                "72603-190",
+                "72603-188",
+                "72603-213",
+                "72603-212",
+                "62135-114",
+                "72888-235",
+                "72888-236",
+                "72888-237",
+                "72888-238",
+                "72888-239",
+                "72888-240",
+                "72888-241",
+                "70954-872",
+                "85742-004",
+                "66993-730",
+                "82667-600",
+                "72789-534",
+                "72578-168",
+                "72578-171",
+                "72578-172",
+                "72578-169",
+                "72578-170",
+                "64980-509",
+                "0054-3177",
+                "0054-4179",
+                "0054-4180",
+                "0054-4181",
+                "0054-4182",
+                "0054-4183",
+                "0054-4184",
+                "0054-4186",
+                "0054-3176",
+                "0054-8179",
+                "0054-8180",
+                "0054-8174",
+                "0054-8181",
+                "0054-8176",
+                "0054-8175",
+                "0054-8183",
+                "60219-2056",
+                "82111-955",
+                "69452-276",
+                "70382-204",
+                "72578-167"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL",
+                "INTRAVITREAL",
+                "OPHTHALMIC",
+                "INTRACANALICULAR"
+            ],
+            "substance_name": [
+                "DEXAMETHASONE"
+            ],
+            "rxcui": [
+                "197581",
+                "854177",
+                "854181",
+                "197577",
+                "197579",
+                "197580",
+                "197582",
+                "197583",
+                "343033",
+                "309686",
+                "759481",
+                "759697",
+                "846192",
+                "197576",
+                "205669",
+                "309692",
+                "309684",
+                "2261802",
+                "2286261",
+                "2108015",
+                "2108020"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "7S5I7G3JQL"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778729",
+        "drugcharacterization": "1",
+        "medicinalproduct": "DEXAMETHASONE.",
+        "drugstructuredosagenumb": "20",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "TABLETS",
+        "drugadministrationroute": "048",
+        "drugstartdateformat": "102",
+        "drugstartdate": "20180116",
+        "drugenddateformat": "102",
+        "drugenddate": "20181031",
+        "actiondrug": "1",
+        "drugrecurreadministration": "3",
+        "drugadditional": "1",
+        "activesubstance": {
+            "activesubstancename": "DEXAMETHASONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA216283",
+                "NDA022315",
+                "ANDA217695",
+                "ANDA216282",
+                "ANDA088481",
+                "ANDA216284",
+                "ANDA084754",
+                "ANDA217001",
+                "ANDA215106",
+                "ANDA215604",
+                "ANDA217696",
+                "ANDA201270",
+                "ANDA088149",
+                "ANDA091188",
+                "ANDA218372",
+                "ANDA080399",
+                "NDA013422",
+                "ANDA090891",
+                "ANDA088248",
+                "ANDA084612",
+                "ANDA216295",
+                "NDA211379",
+                "ANDA217538",
+                "NDA208742"
+            ],
+            "brand_name": [
+                "DEXAMETHASONE",
+                "OZURDEX",
+                "DEXAMETHASONE 1.5 MG",
+                "MAXIDEX",
+                "HEMADY",
+                "DEXTENZA"
+            ],
+            "generic_name": [
+                "DEXAMETHASONE",
+                "DEXAMETHASONE 1.5 MG"
+            ],
+            "manufacturer_name": [
+                "Zydus Lifesciences Limited",
+                "Allergan, Inc.",
+                "Apotex Corp.",
+                "Alvogen Inc.",
+                "Viona Pharmaceuticals Inc",
+                "Marlex Pharmaceuticals, Inc",
+                "Bionpharma Inc.,",
+                "Kesin Pharma Corporation",
+                "Amneal Pharmaceuticals NY LLC",
+                "ANI Pharmaceuticals, Inc.",
+                "Larken Laboratories, Inc.",
+                "Pangea Pharmaceuticals, LLC",
+                "NorthStar Rx LLC",
+                "Chartwell RX, LLC",
+                "Advagen Pharma Ltd.",
+                "Kanchan Healthcare Inc",
+                "Prasco Laboratories",
+                "Harrow Eye, LLC",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Hikma Pharmaceuticals USA, Inc.",
+                "Edenbridge Pharmaceuticals LLC.",
+                "Ocular Therapeutix, Inc."
+            ],
+            "product_ndc": [
+                "70771-1701",
+                "0023-3348",
+                "60505-6249",
+                "60505-6250",
+                "60505-6251",
+                "60505-6252",
+                "60505-6253",
+                "60505-6254",
+                "60505-6255",
+                "70771-1699",
+                "70771-1700",
+                "70771-1704",
+                "70771-1705",
+                "70771-1707",
+                "47781-914",
+                "47781-916",
+                "72578-166",
+                "70771-1706",
+                "10135-795",
+                "69452-277",
+                "69452-278",
+                "81033-010",
+                "60219-2043",
+                "60219-2044",
+                "70954-398",
+                "70954-401",
+                "70954-403",
+                "70954-404",
+                "70954-402",
+                "70954-399",
+                "68047-702",
+                "81279-117",
+                "72603-187",
+                "72603-189",
+                "72603-190",
+                "72603-188",
+                "72603-213",
+                "72603-212",
+                "62135-114",
+                "72888-235",
+                "72888-236",
+                "72888-237",
+                "72888-238",
+                "72888-239",
+                "72888-240",
+                "72888-241",
+                "70954-872",
+                "85742-004",
+                "66993-730",
+                "82667-600",
+                "72789-534",
+                "72578-168",
+                "72578-171",
+                "72578-172",
+                "72578-169",
+                "72578-170",
+                "64980-509",
+                "0054-3177",
+                "0054-4179",
+                "0054-4180",
+                "0054-4181",
+                "0054-4182",
+                "0054-4183",
+                "0054-4184",
+                "0054-4186",
+                "0054-3176",
+                "0054-8179",
+                "0054-8180",
+                "0054-8174",
+                "0054-8181",
+                "0054-8176",
+                "0054-8175",
+                "0054-8183",
+                "60219-2056",
+                "82111-955",
+                "69452-276",
+                "70382-204",
+                "72578-167"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL",
+                "INTRAVITREAL",
+                "OPHTHALMIC",
+                "INTRACANALICULAR"
+            ],
+            "substance_name": [
+                "DEXAMETHASONE"
+            ],
+            "rxcui": [
+                "197581",
+                "854177",
+                "854181",
+                "197577",
+                "197579",
+                "197580",
+                "197582",
+                "197583",
+                "343033",
+                "309686",
+                "759481",
+                "759697",
+                "846192",
+                "197576",
+                "205669",
+                "309692",
+                "309684",
+                "2261802",
+                "2286261",
+                "2108015",
+                "2108020"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "7S5I7G3JQL"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778732",
+        "drugcharacterization": "1",
+        "medicinalproduct": "COTRIMOXAZOLE",
+        "drugdosagetext": "UNK",
+        "drugadministrationroute": "065",
+        "drugindication": "SINUSITIS",
+        "actiondrug": "5",
+        "drugadditional": "3",
+        "activesubstance": {
+            "activesubstancename": "SULFAMETHOXAZOLE\\TRIMETHOPRIM"
+        }
+    },
+    {
+        "safetyreportid": "15778732",
+        "drugcharacterization": "2",
+        "medicinalproduct": "PREDNISONE.",
+        "drugdosagetext": "UNK",
+        "drugindication": "SINUSITIS",
+        "actiondrug": "5",
+        "drugadditional": "3",
+        "activesubstance": {
+            "activesubstancename": "PREDNISONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA215246",
+                "ANDA080292",
+                "ANDA088832",
+                "ANDA083677",
+                "ANDA040584",
+                "ANDA040581",
+                "ANDA040256",
+                "ANDA040392",
+                "ANDA210785",
+                "ANDA080352",
+                "ANDA211495",
+                "ANDA215671",
+                "ANDA219477",
+                "ANDA088703",
+                "ANDA084275",
+                "ANDA208412",
+                "ANDA211496",
+                "ANDA213385",
+                "ANDA215672",
+                "ANDA212629",
+                "ANDA213386",
+                "ANDA211575",
+                "ANDA080356",
+                "ANDA085162",
+                "ANDA085161"
+            ],
+            "brand_name": [
+                "PREDNISONE",
+                "PREDNISONE DELAYED RELEASE",
+                "PREDNISONE TABLETS, USP, 5 MG",
+                "PREDNISONE TABLETS, USP, 10 MG",
+                "PREDNISONE TABLETS, USP, 20 MG"
+            ],
+            "generic_name": [
+                "PREDNISONE"
+            ],
+            "manufacturer_name": [
+                "ANI Pharmaceuticals, Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "Par Health USA, LLC",
+                "Strides Pharma Science Limited",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Chartwell RX, LLC",
+                "Aurobindo Pharma Limited",
+                "INA Pharmaceutics Inc",
+                "Amneal Pharmaceuticals NY LLC",
+                "Dr. Reddys Laboratories Inc.",
+                "Granulation Technology, Inc.",
+                "Actavis Pharma, Inc."
+            ],
+            "product_ndc": [
+                "70954-056",
+                "0378-0640",
+                "0378-0641",
+                "0378-0642",
+                "0603-5335",
+                "0603-5336",
+                "0603-5337",
+                "0603-5338",
+                "0603-5339",
+                "64380-782",
+                "0054-9817",
+                "0054-9828",
+                "0054-9818",
+                "62135-471",
+                "59651-484",
+                "74157-010",
+                "74157-019",
+                "0054-0017",
+                "0054-4741",
+                "0054-4742",
+                "0054-4728",
+                "0054-0018",
+                "0054-0019",
+                "0054-3722",
+                "0054-3721",
+                "0054-8739",
+                "0054-8740",
+                "0054-8724",
+                "62135-553",
+                "64380-783",
+                "64380-835",
+                "62135-470",
+                "60219-1705",
+                "60219-1706",
+                "59651-485",
+                "59651-486",
+                "59651-487",
+                "59651-488",
+                "59651-489",
+                "43598-886",
+                "43598-887",
+                "64380-784",
+                "64380-785",
+                "64380-949",
+                "63561-0120",
+                "63561-0121",
+                "63561-0122",
+                "60219-1707",
+                "60219-1708",
+                "70954-057",
+                "70954-058",
+                "70954-059",
+                "70954-060",
+                "70954-061",
+                "0591-5052",
+                "0591-5442",
+                "0591-5443"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "PREDNISONE"
+            ],
+            "rxcui": [
+                "198144",
+                "198145",
+                "312615",
+                "312617",
+                "198146",
+                "763179",
+                "763181",
+                "763183",
+                "763185",
+                "1303125",
+                "1303132",
+                "198148",
+                "205301",
+                "315187"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "VB0R961HZT"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778732",
+        "drugcharacterization": "1",
+        "medicinalproduct": "AMOXICILLIN+CLAVULANIC ACID",
+        "drugauthorizationnumb": "201090",
+        "drugdosagetext": "UNK",
+        "drugadministrationroute": "065",
+        "drugindication": "SINUSITIS",
+        "actiondrug": "1",
+        "drugadditional": "1",
+        "activesubstance": {
+            "activesubstancename": "AMOXICILLIN\\CLAVULANIC ACID"
+        }
+    },
+    {
+        "safetyreportid": "15778733",
+        "drugcharacterization": "1",
+        "medicinalproduct": "DEXAMETHASONE.",
+        "drugauthorizationnumb": "206781",
+        "drugstructuredosagenumb": "10",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "10 MILLIGRAM",
+        "drugadministrationroute": "042",
+        "drugindication": "PAIN",
+        "actiondrug": "5",
+        "drugrecurreadministration": "3",
+        "drugadditional": "3",
+        "activesubstance": {
+            "activesubstancename": "DEXAMETHASONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA216283",
+                "NDA022315",
+                "ANDA217695",
+                "ANDA216282",
+                "ANDA088481",
+                "ANDA216284",
+                "ANDA084754",
+                "ANDA217001",
+                "ANDA215106",
+                "ANDA215604",
+                "ANDA217696",
+                "ANDA201270",
+                "ANDA088149",
+                "ANDA091188",
+                "ANDA218372",
+                "ANDA080399",
+                "NDA013422",
+                "ANDA090891",
+                "ANDA088248",
+                "ANDA084612",
+                "ANDA216295",
+                "NDA211379",
+                "ANDA217538",
+                "NDA208742"
+            ],
+            "brand_name": [
+                "DEXAMETHASONE",
+                "OZURDEX",
+                "DEXAMETHASONE 1.5 MG",
+                "MAXIDEX",
+                "HEMADY",
+                "DEXTENZA"
+            ],
+            "generic_name": [
+                "DEXAMETHASONE",
+                "DEXAMETHASONE 1.5 MG"
+            ],
+            "manufacturer_name": [
+                "Zydus Lifesciences Limited",
+                "Allergan, Inc.",
+                "Apotex Corp.",
+                "Alvogen Inc.",
+                "Viona Pharmaceuticals Inc",
+                "Marlex Pharmaceuticals, Inc",
+                "Bionpharma Inc.,",
+                "Kesin Pharma Corporation",
+                "Amneal Pharmaceuticals NY LLC",
+                "ANI Pharmaceuticals, Inc.",
+                "Larken Laboratories, Inc.",
+                "Pangea Pharmaceuticals, LLC",
+                "NorthStar Rx LLC",
+                "Chartwell RX, LLC",
+                "Advagen Pharma Ltd.",
+                "Kanchan Healthcare Inc",
+                "Prasco Laboratories",
+                "Harrow Eye, LLC",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Hikma Pharmaceuticals USA, Inc.",
+                "Edenbridge Pharmaceuticals LLC.",
+                "Ocular Therapeutix, Inc."
+            ],
+            "product_ndc": [
+                "70771-1701",
+                "0023-3348",
+                "60505-6249",
+                "60505-6250",
+                "60505-6251",
+                "60505-6252",
+                "60505-6253",
+                "60505-6254",
+                "60505-6255",
+                "70771-1699",
+                "70771-1700",
+                "70771-1704",
+                "70771-1705",
+                "70771-1707",
+                "47781-914",
+                "47781-916",
+                "72578-166",
+                "70771-1706",
+                "10135-795",
+                "69452-277",
+                "69452-278",
+                "81033-010",
+                "60219-2043",
+                "60219-2044",
+                "70954-398",
+                "70954-401",
+                "70954-403",
+                "70954-404",
+                "70954-402",
+                "70954-399",
+                "68047-702",
+                "81279-117",
+                "72603-187",
+                "72603-189",
+                "72603-190",
+                "72603-188",
+                "72603-213",
+                "72603-212",
+                "62135-114",
+                "72888-235",
+                "72888-236",
+                "72888-237",
+                "72888-238",
+                "72888-239",
+                "72888-240",
+                "72888-241",
+                "70954-872",
+                "85742-004",
+                "66993-730",
+                "82667-600",
+                "72789-534",
+                "72578-168",
+                "72578-171",
+                "72578-172",
+                "72578-169",
+                "72578-170",
+                "64980-509",
+                "0054-3177",
+                "0054-4179",
+                "0054-4180",
+                "0054-4181",
+                "0054-4182",
+                "0054-4183",
+                "0054-4184",
+                "0054-4186",
+                "0054-3176",
+                "0054-8179",
+                "0054-8180",
+                "0054-8174",
+                "0054-8181",
+                "0054-8176",
+                "0054-8175",
+                "0054-8183",
+                "60219-2056",
+                "82111-955",
+                "69452-276",
+                "70382-204",
+                "72578-167"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL",
+                "INTRAVITREAL",
+                "OPHTHALMIC",
+                "INTRACANALICULAR"
+            ],
+            "substance_name": [
+                "DEXAMETHASONE"
+            ],
+            "rxcui": [
+                "197581",
+                "854177",
+                "854181",
+                "197577",
+                "197579",
+                "197580",
+                "197582",
+                "197583",
+                "343033",
+                "309686",
+                "759481",
+                "759697",
+                "846192",
+                "197576",
+                "205669",
+                "309692",
+                "309684",
+                "2261802",
+                "2286261",
+                "2108015",
+                "2108020"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "7S5I7G3JQL"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778748",
+        "drugcharacterization": "1",
+        "medicinalproduct": "POMALYST",
+        "drugauthorizationnumb": "123692",
+        "drugstructuredosagenumb": "4",
+        "drugstructuredosageunit": "003",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "CAPSULES",
+        "drugadministrationroute": "048",
+        "drugindication": "PLASMA CELL MYELOMA",
+        "drugstartdateformat": "102",
+        "drugstartdate": "20180918",
+        "drugenddateformat": "102",
+        "drugenddate": "20181225",
+        "actiondrug": "6",
+        "activesubstance": {
+            "activesubstancename": "POMALIDOMIDE"
+        },
+        "openfda": {
+            "application_number": [
+                "NDA204026"
+            ],
+            "brand_name": [
+                "POMALYST"
+            ],
+            "generic_name": [
+                "POMALIDOMIDE"
+            ],
+            "manufacturer_name": [
+                "Celgene Corporation"
+            ],
+            "product_ndc": [
+                "59572-501",
+                "59572-502",
+                "59572-503",
+                "59572-504"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL"
+            ],
+            "substance_name": [
+                "POMALIDOMIDE"
+            ],
+            "rxcui": [
+                "1369718",
+                "1369724",
+                "1369726",
+                "1369728",
+                "1369730",
+                "1369732",
+                "1369734",
+                "1369736"
+            ],
+            "nui": [
+                "N0000184014"
+            ],
+            "pharm_class_epc": [
+                "Thalidomide Analog [EPC]"
+            ],
+            "unii": [
+                "D2UX06XLB5"
+            ]
+        }
+    },
+    {
+        "safetyreportid": "15778748",
+        "drugcharacterization": "2",
+        "medicinalproduct": "DEXAMETHASONE.",
+        "drugdosagetext": "UNKNOWN",
+        "drugdosageform": "INJECTION",
+        "drugadministrationroute": "065",
+        "drugindication": "PLASMA CELL MYELOMA",
+        "activesubstance": {
+            "activesubstancename": "DEXAMETHASONE"
+        },
+        "openfda": {
+            "application_number": [
+                "ANDA216283",
+                "NDA022315",
+                "ANDA217695",
+                "ANDA216282",
+                "ANDA088481",
+                "ANDA216284",
+                "ANDA084754",
+                "ANDA217001",
+                "ANDA215106",
+                "ANDA215604",
+                "ANDA217696",
+                "ANDA201270",
+                "ANDA088149",
+                "ANDA091188",
+                "ANDA218372",
+                "ANDA080399",
+                "NDA013422",
+                "ANDA090891",
+                "ANDA088248",
+                "ANDA084612",
+                "ANDA216295",
+                "NDA211379",
+                "ANDA217538",
+                "NDA208742"
+            ],
+            "brand_name": [
+                "DEXAMETHASONE",
+                "OZURDEX",
+                "DEXAMETHASONE 1.5 MG",
+                "MAXIDEX",
+                "HEMADY",
+                "DEXTENZA"
+            ],
+            "generic_name": [
+                "DEXAMETHASONE",
+                "DEXAMETHASONE 1.5 MG"
+            ],
+            "manufacturer_name": [
+                "Zydus Lifesciences Limited",
+                "Allergan, Inc.",
+                "Apotex Corp.",
+                "Alvogen Inc.",
+                "Viona Pharmaceuticals Inc",
+                "Marlex Pharmaceuticals, Inc",
+                "Bionpharma Inc.,",
+                "Kesin Pharma Corporation",
+                "Amneal Pharmaceuticals NY LLC",
+                "ANI Pharmaceuticals, Inc.",
+                "Larken Laboratories, Inc.",
+                "Pangea Pharmaceuticals, LLC",
+                "NorthStar Rx LLC",
+                "Chartwell RX, LLC",
+                "Advagen Pharma Ltd.",
+                "Kanchan Healthcare Inc",
+                "Prasco Laboratories",
+                "Harrow Eye, LLC",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Hikma Pharmaceuticals USA, Inc.",
+                "Edenbridge Pharmaceuticals LLC.",
+                "Ocular Therapeutix, Inc."
+            ],
+            "product_ndc": [
+                "70771-1701",
+                "0023-3348",
+                "60505-6249",
+                "60505-6250",
+                "60505-6251",
+                "60505-6252",
+                "60505-6253",
+                "60505-6254",
+                "60505-6255",
+                "70771-1699",
+                "70771-1700",
+                "70771-1704",
+                "70771-1705",
+                "70771-1707",
+                "47781-914",
+                "47781-916",
+                "72578-166",
+                "70771-1706",
+                "10135-795",
+                "69452-277",
+                "69452-278",
+                "81033-010",
+                "60219-2043",
+                "60219-2044",
+                "70954-398",
+                "70954-401",
+                "70954-403",
+                "70954-404",
+                "70954-402",
+                "70954-399",
+                "68047-702",
+                "81279-117",
+                "72603-187",
+                "72603-189",
+                "72603-190",
+                "72603-188",
+                "72603-213",
+                "72603-212",
+                "62135-114",
+                "72888-235",
+                "72888-236",
+                "72888-237",
+                "72888-238",
+                "72888-239",
+                "72888-240",
+                "72888-241",
+                "70954-872",
+                "85742-004",
+                "66993-730",
+                "82667-600",
+                "72789-534",
+                "72578-168",
+                "72578-171",
+                "72578-172",
+                "72578-169",
+                "72578-170",
+                "64980-509",
+                "0054-3177",
+                "0054-4179",
+                "0054-4180",
+                "0054-4181",
+                "0054-4182",
+                "0054-4183",
+                "0054-4184",
+                "0054-4186",
+                "0054-3176",
+                "0054-8179",
+                "0054-8180",
+                "0054-8174",
+                "0054-8181",
+                "0054-8176",
+                "0054-8175",
+                "0054-8183",
+                "60219-2056",
+                "82111-955",
+                "69452-276",
+                "70382-204",
+                "72578-167"
+            ],
+            "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+            ],
+            "route": [
+                "ORAL",
+                "INTRAVITREAL",
+                "OPHTHALMIC",
+                "INTRACANALICULAR"
+            ],
+            "substance_name": [
+                "DEXAMETHASONE"
+            ],
+            "rxcui": [
+                "197581",
+                "854177",
+                "854181",
+                "197577",
+                "197579",
+                "197580",
+                "197582",
+                "197583",
+                "343033",
+                "309686",
+                "759481",
+                "759697",
+                "846192",
+                "197576",
+                "205669",
+                "309692",
+                "309684",
+                "2261802",
+                "2286261",
+                "2108015",
+                "2108020"
+            ],
+            "nui": [
+                "N0000175576",
+                "N0000175450"
+            ],
+            "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+            ],
+            "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+            ],
+            "unii": [
+                "7S5I7G3JQL"
+            ]
+        }
+    }
+]

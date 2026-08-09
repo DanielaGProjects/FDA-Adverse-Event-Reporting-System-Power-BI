@@ -1,0 +1,210 @@
+[
+    {
+        "safetyreportversion": "1",
+        "safetyreportid": "15778722",
+        "primarysourcecountry": "US",
+        "occurcountry": "US",
+        "transmissiondateformat": "102",
+        "transmissiondate": "20190417",
+        "reporttype": "1",
+        "serious": "1",
+        "seriousnessdeath": "1",
+        "receivedateformat": "102",
+        "receivedate": "20190101",
+        "receiptdateformat": "102",
+        "receiptdate": "20190101",
+        "fulfillexpeditecriteria": "1",
+        "companynumb": "US-CELGENEUS-USA-20181209277",
+        "duplicate": "1",
+        "reportduplicate": {
+            "duplicatesource": "CELGENE",
+            "duplicatenumb": "US-CELGENEUS-USA-20181209277"
+        },
+        "primarysource": {
+            "reportercountry": "US",
+            "qualification": "3"
+        },
+        "sender": {
+            "sendertype": "2",
+            "senderorganization": "FDA-Public Use"
+        },
+        "receiver": {
+            "receivertype": "6",
+            "receiverorganization": "FDA"
+        },
+        "patient": {
+            "patientonsetage": "62",
+            "patientonsetageunit": "801",
+            "patientsex": "1",
+            "summary": {
+                "narrativeincludeclinical": "CASE EVENT DATE: 20181214"
+            }
+        }
+    },
+    {
+        "safetyreportversion": "1",
+        "safetyreportid": "15778729",
+        "primarysourcecountry": "JP",
+        "occurcountry": "JP",
+        "transmissiondateformat": "102",
+        "transmissiondate": "20190417",
+        "reporttype": "1",
+        "serious": "1",
+        "seriousnessdeath": "1",
+        "seriousnesshospitalization": "1",
+        "receivedateformat": "102",
+        "receivedate": "20190101",
+        "receiptdateformat": "102",
+        "receiptdate": "20190101",
+        "fulfillexpeditecriteria": "1",
+        "companynumb": "JP-CELGENEUS-JPN-20181009863",
+        "duplicate": "1",
+        "reportduplicate": {
+            "duplicatesource": "CELGENE",
+            "duplicatenumb": "JP-CELGENEUS-JPN-20181009863"
+        },
+        "primarysource": {
+            "reportercountry": "JP",
+            "qualification": "3",
+            "literaturereference": "ITO S, MIZATO I, TANAKA Y, HASHIMOTO A, TAKAHARA K. A CASE OF MULTIPLE MYELOMA DEVELOPED MENINGITIS CRYPTOCOCCAL. 221ST MEETING OF THE JAPANESE SOCIETY OF INTERNAL MEDICINE IN KINKI REGION. 2018?67-67."
+        },
+        "sender": {
+            "sendertype": "2",
+            "senderorganization": "FDA-Public Use"
+        },
+        "receiver": {
+            "receivertype": "6",
+            "receiverorganization": "FDA"
+        },
+        "patient": {
+            "patientonsetage": "72",
+            "patientonsetageunit": "801",
+            "patientsex": "1",
+            "summary": {
+                "narrativeincludeclinical": "CASE EVENT DATE: 20170926"
+            }
+        }
+    },
+    {
+        "safetyreportversion": "1",
+        "safetyreportid": "15778732",
+        "primarysourcecountry": "US",
+        "occurcountry": "US",
+        "transmissiondateformat": "102",
+        "transmissiondate": "20190417",
+        "reporttype": "1",
+        "serious": "1",
+        "seriousnesshospitalization": "1",
+        "seriousnessother": "1",
+        "receivedateformat": "102",
+        "receivedate": "20190101",
+        "receiptdateformat": "102",
+        "receiptdate": "20190101",
+        "fulfillexpeditecriteria": "1",
+        "companynumb": "US-AUROBINDO-AUR-APL-2018-063075",
+        "duplicate": "1",
+        "reportduplicate": {
+            "duplicatesource": "AUROBINDO",
+            "duplicatenumb": "US-AUROBINDO-AUR-APL-2018-063075"
+        },
+        "primarysource": {
+            "reportercountry": "US",
+            "qualification": "3",
+            "literaturereference": "KARAGIC M, ET AL. AMOXICILLIN/CLAVULANIC ACID/ COTRIMOXAZOLE DRESS SYNDROME AND HYPERSENSITIVITY MYOCARDITIS PRESENTING WITH CARDIOGENLC SHOCK: CASE REPORT. REACTIONS WEEKLY. 2018?1732:P37"
+        },
+        "sender": {
+            "sendertype": "2",
+            "senderorganization": "FDA-Public Use"
+        },
+        "receiver": {
+            "receivertype": "6",
+            "receiverorganization": "FDA"
+        },
+        "patient": {
+            "patientonsetage": "38",
+            "patientonsetageunit": "801",
+            "patientsex": "1"
+        }
+    },
+    {
+        "safetyreportversion": "1",
+        "safetyreportid": "15778733",
+        "primarysourcecountry": "US",
+        "occurcountry": "US",
+        "transmissiondateformat": "102",
+        "transmissiondate": "20190417",
+        "reporttype": "2",
+        "serious": "1",
+        "seriousnessother": "1",
+        "receivedateformat": "102",
+        "receivedate": "20190101",
+        "receiptdateformat": "102",
+        "receiptdate": "20190101",
+        "fulfillexpeditecriteria": "1",
+        "companynumb": "US-AUROBINDO-AUR-APL-2018-063935",
+        "duplicate": "1",
+        "reportduplicate": {
+            "duplicatesource": "AUROBINDO",
+            "duplicatenumb": "US-AUROBINDO-AUR-APL-2018-063935"
+        },
+        "primarysource": {
+            "reportercountry": "US",
+            "qualification": "3"
+        },
+        "sender": {
+            "sendertype": "2",
+            "senderorganization": "FDA-Public Use"
+        },
+        "receiver": {
+            "receivertype": "6",
+            "receiverorganization": "FDA"
+        },
+        "patient": {
+            "patientonsetage": "40",
+            "patientonsetageunit": "801",
+            "patientsex": "1"
+        }
+    },
+    {
+        "safetyreportversion": "1",
+        "safetyreportid": "15778748",
+        "primarysourcecountry": "JP",
+        "occurcountry": "JP",
+        "transmissiondateformat": "102",
+        "transmissiondate": "20190417",
+        "reporttype": "1",
+        "serious": "1",
+        "seriousnessdeath": "1",
+        "receivedateformat": "102",
+        "receivedate": "20190101",
+        "receiptdateformat": "102",
+        "receiptdate": "20190101",
+        "fulfillexpeditecriteria": "1",
+        "companynumb": "JP-CELGENEUS-JPN-20181208729",
+        "duplicate": "1",
+        "reportduplicate": {
+            "duplicatesource": "CELGENE",
+            "duplicatenumb": "JP-CELGENEUS-JPN-20181208729"
+        },
+        "primarysource": {
+            "reportercountry": "JP",
+            "qualification": "2"
+        },
+        "sender": {
+            "sendertype": "2",
+            "senderorganization": "FDA-Public Use"
+        },
+        "receiver": {
+            "receivertype": "6",
+            "receiverorganization": "FDA"
+        },
+        "patient": {
+            "patientonsetage": "83",
+            "patientonsetageunit": "801",
+            "patientsex": "1",
+            "summary": {
+                "narrativeincludeclinical": "CASE EVENT DATE: 20181226"
+            }
+        }
+    }
+]

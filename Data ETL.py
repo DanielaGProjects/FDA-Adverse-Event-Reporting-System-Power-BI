@@ -117,7 +117,7 @@ def MedDRA_definitions():
 
 # Functions to call
 #fetchDataAndCreateJSON()
-MedDRA_definitions()
-# #manipulatingData()
+#MedDRA_definitions()
+#manipulatingData()
 
 
