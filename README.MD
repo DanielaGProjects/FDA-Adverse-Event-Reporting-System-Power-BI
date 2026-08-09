@@ -4,7 +4,7 @@
 <span style="color: red; font-size: 20px;">This prohect isn't finished yet</span>
 
 
-# Clinical data adverse efects and MedDRA dictionaries project
+# Clinical data adverse effects and MedDRA dictionaries project
 
 This repository is part of a project portfolio designed to showcase data analytics and modeling capabilities.
 
