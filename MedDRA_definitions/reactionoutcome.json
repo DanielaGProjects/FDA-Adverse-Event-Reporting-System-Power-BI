@@ -1,0 +1,10 @@
+{
+    "reactionoutcome": {
+        "1": "recovered/resolved",
+        "2": "recovering/resolving",
+        "3": "not recovered/not resolved",
+        "4": "recovered/resolved with sequelae",
+        "5": "fatal",
+        "6": "unknown"
+    }
+}

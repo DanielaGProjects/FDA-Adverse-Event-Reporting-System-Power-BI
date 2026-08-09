@@ -1,0 +1,9 @@
+{
+    "receivertype": {
+        "1": "Pharmaceutical Company",
+        "2": "Regulatory Authority",
+        "4": "Regional Pharmacovigilance Center",
+        "5": "WHO Collaborating Center for International Drug Monitoring",
+        "6": "Other"
+    }
+}
