@@ -31,7 +31,7 @@ def manipulatingData():
     drugs_list = []
     reactions_list = []
 
-    keys_to_remove = {"package_ndc", "spl_id", "spl_set_id"}
+    keys_to_remove = {"package_ndc", "spl_id", "spl_set_id", "product_ndc", "nui"}
 
     for d in data:
         report_id = d.get("safetyreportid")
@@ -118,6 +118,6 @@ def MedDRA_definitions():
 # Functions to call
 #fetchDataAndCreateJSON()
 #MedDRA_definitions()
-#manipulatingData()
+manipulatingData()
 
 
