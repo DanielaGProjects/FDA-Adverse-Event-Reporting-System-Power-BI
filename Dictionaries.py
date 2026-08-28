@@ -44,14 +44,7 @@ drugstructuredosageunit = """001=kg kilogram(s)
 
 
 
-parentmedicalcontinue = """1=Yes
-2=No
-3=Unknown"""
 
-
-patientmedicalcontinue = """1=Yes
-2=No
-3=Unknown"""
 
 drugadministrationroute = """001=Auricular (otic)
 002=Buccal
