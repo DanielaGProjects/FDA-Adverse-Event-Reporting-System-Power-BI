@@ -6,7 +6,7 @@ import Dictionaries
 #STEP 1. Fetching data from openFDA
 
 def fetchDataAndCreateJSON():
-    # Send the GET request
+    # Make a GET request
     response = requests.get("https://api.fda.gov/drug/event.json?search=patient.drug.openfda.pharm_class_epc:'corticosteroid'+AND+receivedate:[20190101+TO+20191231]&limit=5")
     myResponse = response.text
 
@@ -26,7 +26,7 @@ def manipulatingData():
     with open('./JSONFiles/drugEvents.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
-    #To avoid unnested tables and simplify them, the content was split in 3 different tables, using safetyreportid as a foreign key
+    #To avoid unnested tables and simplify them, the response from OpenFDA was split in 3 different tables, using safetyreportid as a foreign key
     main_reports = []
     drugs_list = []
     reactions_list = []
@@ -41,12 +41,12 @@ def manipulatingData():
         reactions = patient.get("reaction", [])
         
         for r in reactions:
-            # a new dictionary is created, safetyreportid is added
+            # a new dictionary to add reactions is created, safetyreportid is added
             reaction_entry = {"safetyreportid": report_id}
             reaction_entry.update(r)  # adding the rest of the reactions dictionary
             reactions_list.append(reaction_entry)
 
-        # 2. A new dictionary is created, safetyreportid is added
+        # 2. A new dictionary to add drugs is created, safetyreportid is added
         drugs = patient.get("drug", [])
         for drug in drugs:
             drug_entry = {"safetyreportid": report_id}
@@ -118,6 +118,6 @@ def MedDRA_definitions():
 # Functions to call
 #fetchDataAndCreateJSON()
 #MedDRA_definitions()
-manipulatingData()
+#manipulatingData()
 
 
