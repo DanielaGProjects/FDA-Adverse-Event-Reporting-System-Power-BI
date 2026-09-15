@@ -156,3 +156,5 @@ receivertype = """1=Pharmaceutical Company
 5=WHO Collaborating Center for International Drug Monitoring
 6=Other"""
 
+patientsex = """1=Male
+2=Female"""
